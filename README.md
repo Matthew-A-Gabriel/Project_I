@@ -15,3 +15,9 @@
 > Loaded World
 
 > "Hello?"
+
+> Uninitializing
+
+> ...
+
+> Uninitialized
